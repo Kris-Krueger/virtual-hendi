@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/virtual-hendi/static/css/main.40626981.chunk.css",
-    "main.js": "/virtual-hendi/static/js/main.c9239eeb.chunk.js",
-    "main.js.map": "/virtual-hendi/static/js/main.c9239eeb.chunk.js.map",
+    "main.js": "/virtual-hendi/static/js/main.9cd7b366.chunk.js",
+    "main.js.map": "/virtual-hendi/static/js/main.9cd7b366.chunk.js.map",
     "runtime-main.js": "/virtual-hendi/static/js/runtime-main.92dfcbb4.js",
     "runtime-main.js.map": "/virtual-hendi/static/js/runtime-main.92dfcbb4.js.map",
     "static/js/2.5511e04c.chunk.js": "/virtual-hendi/static/js/2.5511e04c.chunk.js",
     "static/js/2.5511e04c.chunk.js.map": "/virtual-hendi/static/js/2.5511e04c.chunk.js.map",
     "index.html": "/virtual-hendi/index.html",
-    "precache-manifest.c02bc0fa18f54003ad4f3f5de8998a45.js": "/virtual-hendi/precache-manifest.c02bc0fa18f54003ad4f3f5de8998a45.js",
+    "precache-manifest.edf2f86cc291ff9fad9d16aae1df989a.js": "/virtual-hendi/precache-manifest.edf2f86cc291ff9fad9d16aae1df989a.js",
     "service-worker.js": "/virtual-hendi/service-worker.js",
     "static/css/main.40626981.chunk.css.map": "/virtual-hendi/static/css/main.40626981.chunk.css.map",
     "static/js/2.5511e04c.chunk.js.LICENSE.txt": "/virtual-hendi/static/js/2.5511e04c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.92dfcbb4.js",
     "static/js/2.5511e04c.chunk.js",
     "static/css/main.40626981.chunk.css",
-    "static/js/main.c9239eeb.chunk.js"
+    "static/js/main.9cd7b366.chunk.js"
   ]
 }

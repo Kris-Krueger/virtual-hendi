@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/virtual-hendi/static/css/main.bb9e4e93.chunk.css",
-    "main.js": "/virtual-hendi/static/js/main.3ac5c3fc.chunk.js",
-    "main.js.map": "/virtual-hendi/static/js/main.3ac5c3fc.chunk.js.map",
+    "main.css": "/virtual-hendi/static/css/main.40626981.chunk.css",
+    "main.js": "/virtual-hendi/static/js/main.fc11c4c0.chunk.js",
+    "main.js.map": "/virtual-hendi/static/js/main.fc11c4c0.chunk.js.map",
     "runtime-main.js": "/virtual-hendi/static/js/runtime-main.92dfcbb4.js",
     "runtime-main.js.map": "/virtual-hendi/static/js/runtime-main.92dfcbb4.js.map",
     "static/js/2.5511e04c.chunk.js": "/virtual-hendi/static/js/2.5511e04c.chunk.js",
     "static/js/2.5511e04c.chunk.js.map": "/virtual-hendi/static/js/2.5511e04c.chunk.js.map",
     "index.html": "/virtual-hendi/index.html",
-    "precache-manifest.156e625e93a763fbb09a1790eb789c26.js": "/virtual-hendi/precache-manifest.156e625e93a763fbb09a1790eb789c26.js",
+    "precache-manifest.476e778a6947742f38018b7f7dfb6eac.js": "/virtual-hendi/precache-manifest.476e778a6947742f38018b7f7dfb6eac.js",
     "service-worker.js": "/virtual-hendi/service-worker.js",
-    "static/css/main.bb9e4e93.chunk.css.map": "/virtual-hendi/static/css/main.bb9e4e93.chunk.css.map",
+    "static/css/main.40626981.chunk.css.map": "/virtual-hendi/static/css/main.40626981.chunk.css.map",
     "static/js/2.5511e04c.chunk.js.LICENSE.txt": "/virtual-hendi/static/js/2.5511e04c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.92dfcbb4.js",
     "static/js/2.5511e04c.chunk.js",
-    "static/css/main.bb9e4e93.chunk.css",
-    "static/js/main.3ac5c3fc.chunk.js"
+    "static/css/main.40626981.chunk.css",
+    "static/js/main.fc11c4c0.chunk.js"
   ]
 }

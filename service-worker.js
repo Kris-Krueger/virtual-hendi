@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/virtual-hendi/precache-manifest.476e778a6947742f38018b7f7dfb6eac.js"
+  "/virtual-hendi/precache-manifest.156e625e93a763fbb09a1790eb789c26.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a5fdc5a015bcbda21bfd28de71733e1",
+    "revision": "0edda082585aa1f7c6f38989c533185f",
     "url": "/virtual-hendi/index.html"
   },
   {
-    "revision": "6b2542992cd061cb61f1",
-    "url": "/virtual-hendi/static/css/main.40626981.chunk.css"
+    "revision": "3c4390022d60ca054b99",
+    "url": "/virtual-hendi/static/css/main.bb9e4e93.chunk.css"
   },
   {
     "revision": "5f8bcb07129e2ade6d0e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/virtual-hendi/static/js/2.5511e04c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b2542992cd061cb61f1",
-    "url": "/virtual-hendi/static/js/main.9cd7b366.chunk.js"
+    "revision": "3c4390022d60ca054b99",
+    "url": "/virtual-hendi/static/js/main.3ac5c3fc.chunk.js"
   },
   {
     "revision": "020120ae7a200a28194c",
